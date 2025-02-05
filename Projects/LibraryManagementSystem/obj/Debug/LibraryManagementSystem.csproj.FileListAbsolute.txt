@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\Visual studio c#\Projects\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.dll
+C:\Users\Hp\Desktop\Visual studio c#\Projects\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Hp\Desktop\Visual studio c#\Projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Visual studio c#\Projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Visual studio c#\Projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+C:\Users\Hp\Desktop\Visual studio c#\Projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
